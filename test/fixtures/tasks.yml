@@ -3,9 +3,13 @@
 one:
   title: MyString
   details: MyText
-  completed: false
+  completed: 
+  default: MyString
+  'false': MyString
 
 two:
   title: MyString
   details: MyText
-  completed: false
+  completed: 
+  default: MyString
+  'false': MyString
